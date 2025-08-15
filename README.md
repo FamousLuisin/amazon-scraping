@@ -1,5 +1,6 @@
 # amazon-scraping
 
+**OBS:** Frequentemente retorna um erro pois a amazon consegue identificar que é um "bot" acessando a página e dá um block nas requisições.
 Amazon scraping é um projeto que faz o scraping de produtos da amazon e tras seus resultados.
 
 ## server
